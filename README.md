@@ -11,7 +11,9 @@ Open cmd prompt in administator mode (run as administrator)
 
 cd to where you unzipped openjdk.
 cd into bin
-for simplicity, copy DriveScan_deploy.jar to this directory.
+this should be the directory that contains java.exe
+
+for simplicity, copy DriveScan_deploy.jar to this directory as well.
 Do this command:
 
     mkdir results
