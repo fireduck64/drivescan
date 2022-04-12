@@ -14,8 +14,9 @@ cd into bin
 for simplicity, copy DriveScan_deploy.jar to this directory.
 Do this command:
 
-mkdir results
-java -jar DriveScan_deploy.jar \\\\.\\c: snow:.... results
+    mkdir results
+    java -jar DriveScan_deploy.jar \\\\.\\c: snow:.... results
+
 (substituate in the address you are looking for)
 
 
